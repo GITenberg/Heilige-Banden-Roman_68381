@@ -1,0 +1,31 @@
+_repo: Heilige-Banden-Roman_68381
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fokker, Abraham Anthony
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '24924'
+    url: http://www.gutenberg.org/2009/agents/24924
+    wikipedia: http://www.gutenberg.org/ebooks/author/52704
+description: ''
+gutenberg_issued: '2022-06-23'
+identifiers:
+  gutenberg: '68381'
+language: nl
+pgterms:marc905: 20181011104842fokker
+pgterms:marc906: '1903'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (Prepared from scans kindly made available
+  by the Koninklijke Bibliotheek, The Hague)
+publication_note: Netherlands :C.A.J. van Dishoeck,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Indonesia -- Fiction'
+- GITenberg
+title: 'Heilige Banden: Roman'
+url: http://www.gutenberg.org/ebooks/68381
